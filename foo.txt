@@ -1,0 +1,12 @@
+# titlu    
+####### __ alttitlu ## __ * fgsfdg __ ceva bold __ *
+__ basdasold
+* italic fsdf  dsfwef sdfwrf *
+* asdasdasd __
+sadfwefoq *
+paragraf de proba 
+Bullet list:
+	- apples
+	- oranges
+	- pears
+asd
